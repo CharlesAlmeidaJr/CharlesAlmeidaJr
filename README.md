@@ -25,7 +25,7 @@ Feel free to see some projects I've done or collaborated on and if you have any 
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" /></code>
 ---
 
-## 📬 Meus contatos / My contacts:
+## 📬 Me contate / Contact me:
 
 <div>
 <a href="https://instagram.com/charles_almeida_jr" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -36,17 +36,3 @@ Feel free to see some projects I've done or collaborated on and if you have any 
 ## ⭐ Informações sobre minha conta GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharlesAlmeidaJr&show_icons=true)
-<!--
-**CharlesAlmeidaJr/CharlesAlmeidaJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
