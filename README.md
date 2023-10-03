@@ -17,7 +17,7 @@ Feel free to see some projects I've done or collaborated on and if you have any 
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/></code>
 
-## ⚙️ Ferramentas / Tools
+## 🛠️ Ferramentas / Tools
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" /></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" /></code>
 <code><img height="32" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" alt="Eclipse" /></code>
