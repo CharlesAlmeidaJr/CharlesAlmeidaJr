@@ -1,10 +1,10 @@
 ## 🇧🇷 Olá! Sou José Charles, seja bem vindo ao meu perfil Github! 👋
-Tenho 23 anos e tive meu primeiro contato com desenvolvimento de software em 2017 e desde então venho buscando aprimorar cada vez mais minhas habilidades.
+Tenho 26 anos e tive meu primeiro contato com desenvolvimento de software em 2017 e desde então venho buscando aprimorar cada vez mais minhas habilidades.
 
 Fique a vontade para ver alguns projetos que eu fiz ou colaborei e caso tenha alguma dúvida sobre algum projeto, você pode me contatar, amo ajudar e ensinar sobre programação!
 
 ## 🇺🇸 Hello! I'm José Charles, welcome to my Github profile! 👋
-I'm 23yo and I had my first contact with software development in 2017 and since then I've been trying to improve my skills more and more.
+I'm 26yo and I had my first contact with software development in 2017 and since then I've been trying to improve my skills more and more.
 
 Feel free to see some projects I've done or collaborated on and if you have any questions about a project, you can contact me, I love helping and teaching about programming!
 
