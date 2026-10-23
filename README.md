@@ -1,29 +1,40 @@
 ## 🇧🇷 Olá! Sou José Charles, seja bem vindo ao meu perfil Github! 👋
-Tenho 26 anos e tive meu primeiro contato com desenvolvimento de software em 2017 e desde então venho buscando aprimorar cada vez mais minhas habilidades.
+Sou desenvolvedor de software com experiência no desenvolvimento de aplicações web, APIs, aplicativos mobile, e jogos, com foco em back-end.
 
 Fique a vontade para ver alguns projetos que eu fiz ou colaborei e caso tenha alguma dúvida sobre algum projeto, você pode me contatar, amo ajudar e ensinar sobre programação!
 
 ## 🇺🇸 Hello! I'm José Charles, welcome to my Github profile! 👋
-I'm 26yo and I had my first contact with software development in 2017 and since then I've been trying to improve my skills more and more.
+I am a software developer with experience in developing web applications, APIs, mobile apps, and games, with a focus on back-end development.
 
 Feel free to see some projects I've done or collaborated on and if you have any questions about a project, you can contact me, I love helping and teaching about programming!
 
-## 🚀 Habilidades / Skills
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c sharp"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML 5"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS 3"/></code></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/></code>
+## 🛠️ Tecnologias e ferramentas / Technologies and tools
+### Back-end
+- C# | .NET | ASP.NET Core
+- Entity Framework Core | Dapper
+- APIs REST
+### Banco de dados / Database
+- PostgreSQL
+- SQL
+### Cloud e infraestrutura / Cloud and infrastructure
+- Microsoft Azure
+- Azure Functions
+- Azure Blob Storage
+### Frontend
+- Angular
+- TypeScript
+- HTML | CSS
+### Ferramentas / Tools
+- Git | GitHub
+- Visual Studio | VS Code | Eclipse
+- Android Studio
+- Unity
 
-## 🛠️ Ferramentas / Tools
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" /></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" /></code>
-<code><img height="32" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" alt="Eclipse" /></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" /></code>
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" /></code>
----
+## 🛠️ Projetos em destaque / Featured projects
+
+[Electric RPG - Remake](https://github.com/CharlesAlmeidaJr/Electric-RPG) [Em desenvolvimento / In development] - Electric RPG foi um jogo desenvolvido em 2020 como um projeto de Iniciação Científica. Este projeto é um remake deste jogo aplicando meus conhecimentos atuais da ferramenta Unity. / Electric RPG was a game developed in 2020 as an undergraduate research project. This project is a remake of that game, applying my current knowledge of the Unity engine.
+
+[Facilita FHR](https://github.com/CharlesAlmeidaJr/projetoFinalWebAPI) - Este foi o projeto final para conclusão do Curso Java da Funtec de Ribeirão Preto e fui o principal responsável pelo desenvolvimento da API REST em Java com Spring Boot e PostgreSQL. Está aplicação web foi feita partindo das necessidades de uma empresa de máquinas agrícolas e permite o gerenciamento de funcionários, empresas clientes e frotas, incluindo registros e anexos relacionados à frota. / This was the final project for the Java Program at Funtec in Ribeirão Preto. I was primarily responsible for developing the REST API using Java, Spring Boot, and PostgreSQL. The web application was built to address the specific needs of an agricultural machinery company and enables the management of employees, client companies, and fleets—including records and attachments related to the fleet.
 
 ## 📬 Me contate / Contact me:
 
@@ -32,7 +43,6 @@ Feel free to see some projects I've done or collaborated on and if you have any 
 <a href = "mailto:jcharlesf.almeida@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/josecharlesfajunior" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+<hr>
 
-## ⭐ Informações sobre minha conta GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharlesAlmeidaJr&show_icons=true)
+*Obrigado por visitar meu perfil! / Thanks for visiting my profile!*
